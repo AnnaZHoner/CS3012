@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{50CA45AC-5751-4254-975C-D39D16EC7CAD}</ProjectGuid>
+    <ProjectGuid>{F25FDF7E-CA08-4DC4-BF2B-F38A3DF265B5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LCA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
