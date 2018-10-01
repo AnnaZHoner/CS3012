@@ -14,9 +14,11 @@ namespace Test1
 		
 		TEST_METHOD(TestMethod1)
 		{
-			int 1;
-			Node * newNode(int k);
-
+			ASSERT::EQUALS(2, 1+1)
+			TEST_ASSERT(findLCA(root, node4, node5) == 2);
+			TEST_ASSERT(findLCA(root, node4, node6) == 1);
+			TEST_ASSERT(findLCA(root, node3, node4) == 1);
+			TEST_ASSERT(findLCA(root, node2, node4) == 2);
 
 		}
 
