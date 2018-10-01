@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F25FDF7E-CA08-4DC4-BF2B-F38A3DF265B5}</ProjectGuid>
+    <ProjectGuid>{98227D4D-C33C-4727-80AC-A842242C596F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>LCA</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\LCA.h" />
+    <ClInclude Include="LCA.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

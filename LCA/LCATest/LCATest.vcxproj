@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{47334724-F7E4-4971-992C-0F902BB5CB51}</ProjectGuid>
+    <ProjectGuid>{EAC6C45C-EEA0-4CD4-A144-E3F87D172C0A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Test1</RootNamespace>
+    <RootNamespace>LCATest</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
     <ProjectSubType>NativeUnitTestProject</ProjectSubType>
   </PropertyGroup>
@@ -163,6 +163,11 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
     <ClCompile Include="unittest1.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LCA\LCA.vcxproj">
+      <Project>{98227d4d-c33c-4727-80ac-a842242c596f}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
