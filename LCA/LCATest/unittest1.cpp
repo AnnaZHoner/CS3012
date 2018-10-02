@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include <LCA.h>
+#include "LCA.cpp"
 #include "CppUnitTest.h"
 
 
