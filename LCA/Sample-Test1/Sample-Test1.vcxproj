@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{20009750-365d-4d59-b3a5-5a7b2299af5a}</ProjectGuid>
+    <ProjectGuid>{6cf68e59-c83d-4cd4-94a7-ca1c95a6402b}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
     <ConfigurationType>Application</ConfigurationType>
@@ -46,7 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LCA\LCA.vcxproj">
-      <Project>{98227d4d-c33c-4727-80ac-a842242c596f}</Project>
+      <Project>{38461ca2-f6d9-49ab-8a43-f40210d6c973}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
