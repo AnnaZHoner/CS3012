@@ -1,10 +1,11 @@
-#pragma once
+
  
 struct Node
 {
 	int key;
 	struct Node *left, *right;
 };
+
 
 Node * newNode(int k);
 

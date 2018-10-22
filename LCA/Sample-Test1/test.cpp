@@ -1,5 +1,7 @@
 #include "pch.h"
+#include "../LCA/pch.h"
 #include "../LCA.h"
+
 
 
 
