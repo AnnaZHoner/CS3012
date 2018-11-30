@@ -1,0 +1,12 @@
+{
+  "name": "SWENG",
+  "version": "1.0.0",
+  "description": "Take in info on a GitHub repo, when given user name.",
+  "main": "gitaccess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
